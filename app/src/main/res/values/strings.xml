@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">网易云音乐解密工具</string>
+    <string name="sdcard_netease_cloudmusic_cache_music1">默认路径为:\n/sdcard/netease/cloudmusic/Cache/Music1</string>
+    <string name="Confirm">确认解密</string>
+</resources>
